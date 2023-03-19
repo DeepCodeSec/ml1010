@@ -1,3 +1,5 @@
+sess5/glove.6B.100d.txt
+sess5/yelp_academic_dataset_review.json
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
